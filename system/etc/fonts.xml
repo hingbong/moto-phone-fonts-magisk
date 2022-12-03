@@ -235,8 +235,13 @@
     <alias name="ITC Stone Serif" to="serif" />
 
     <family name="monospace">
-        <font weight="400" style="normal">DroidSansMono-Regular.ttf</font>
-        <font weight="700" style="normal">DroidSansMono-Bold.ttf</font>
+        <font weight="400" style="normal">MPLUSCodeLatin50-Regular.otf</font>
+        <font weight="700" style="normal">MPLUSCodeLatin50-Bold.otf</font>
+        <font weight="500" style="normal">MPLUSCodeLatin50-Medium.otf</font>
+        <font weight="600" style="normal">MPLUSCodeLatin50-SemiBold.otf</font>
+        <font weight="300" style="normal">MPLUSCodeLatin50-Light.otf</font>
+        <font weight="200" style="normal">MPLUSCodeLatin50-ExtraLight.otf</font>
+        <font weight="100" style="normal">MPLUSCodeLatin50-Thin.otf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
