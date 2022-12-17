@@ -289,40 +289,40 @@
     
     <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
         <font weight="400" style="normal" postScriptName="NotoSansCJKjp-Regular">
-            AdvocateAncientSansJP-Regular.otf
+            AdvocateAncientSansJP-Regular.ttf
         </font>
         <font weight="500" style="normal" postScriptName="NotoSansCJKjp-Medium">
-            AdvocateAncientSansJP-Medium.otf
+            AdvocateAncientSansJP-Medium.ttf
         </font>
         <font weight="700" style="normal" postScriptName="NotoSansCJKjp-Bold">
-            AdvocateAncientSansJP-Bold.otf
+            AdvocateAncientSansJP-Bold.ttf
         </font>
         <font weight="900" style="normal" postScriptName="NotoSansCJKjp-Heavy">
-            AdvocateAncientSansJP-Heavy.otf
+            AdvocateAncientSansJP-Heavy.ttf
         </font>
         <font weight="300" style="normal" postScriptName="NotoSansCJKjp-Light">
-            AdvocateAncientSansJP-Light.otf
+            AdvocateAncientSansJP-Light.ttf
         </font>
         <font weight="200" style="normal" postScriptName="NotoSansCJKjp-ExtraLight">
-            AdvocateAncientSansJP-ExtraLight.otf
+            AdvocateAncientSansJP-ExtraLight.ttf
         </font>
         <font weight="400" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">AdvocateAncientSerifJP-Regular.otf
+              postScriptName="NotoSerifCJKjp-Regular">AdvocateAncientSerifJP-Regular.ttf
         </font>
         <font weight="500" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Medium">AdvocateAncientSerifJP-Medium.otf
+              postScriptName="NotoSerifCJKjp-Medium">AdvocateAncientSerifJP-Medium.ttf
         </font>
         <font weight="700" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Bold">AdvocateAncientSerifJP-Bold.otf
+              postScriptName="NotoSerifCJKjp-Bold">AdvocateAncientSerifJP-Bold.ttf
         </font>
         <font weight="900" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Heavy">AdvocateAncientSerifJP-Heavy.otf
+              postScriptName="NotoSerifCJKjp-Heavy">AdvocateAncientSerifJP-Heavy.ttf
         </font>
         <font weight="300" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Light">AdvocateAncientSerifJP-Light.otf
+              postScriptName="NotoSerifCJKjp-Light">AdvocateAncientSerifJP-Light.ttf
         </font>
         <font weight="200" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-ExtraLight">AdvocateAncientSerifJP-ExtraLight.otf
+              postScriptName="NotoSerifCJKjp-ExtraLight">AdvocateAncientSerifJP-ExtraLight.ttf
         </font>
     </family>
     
