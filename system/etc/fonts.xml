@@ -274,58 +274,6 @@
     <alias name="source-sans-pro-semi-bold" to="source-sans-pro" weight="600"/>
 
     <!-- fallback fonts -->
-    
-    <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
-        <font weight="400" style="normal">MPLUS1-Regular.ttf</font>
-        <font weight="500" style="normal">MPLUS1-Medium.ttf</font>
-        <font weight="600" style="normal">MPLUS1-SemiBold.ttf</font>
-        <font weight="700" style="normal">MPLUS1-Bold.ttf</font>
-        <font weight="800" style="normal">MPLUS1-ExtraBold.ttf</font>
-        <font weight="900" style="normal">MPLUS1-Black.ttf</font>
-        <font weight="300" style="normal">MPLUS1-Light.ttf</font>
-        <font weight="200" style="normal">MPLUS1-ExtraLight.ttf</font>
-        <font weight="100" style="normal">MPLUS1-Thin.ttf</font>
-    </family>
-    
-    <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
-        <font weight="400" style="normal" postScriptName="NotoSansCJKjp-Regular">
-            AdvocateAncientSansJP-Regular.ttf
-        </font>
-        <font weight="500" style="normal" postScriptName="NotoSansCJKjp-Medium">
-            AdvocateAncientSansJP-Medium.ttf
-        </font>
-        <font weight="700" style="normal" postScriptName="NotoSansCJKjp-Bold">
-            AdvocateAncientSansJP-Bold.ttf
-        </font>
-        <font weight="900" style="normal" postScriptName="NotoSansCJKjp-Heavy">
-            AdvocateAncientSansJP-Heavy.ttf
-        </font>
-        <font weight="300" style="normal" postScriptName="NotoSansCJKjp-Light">
-            AdvocateAncientSansJP-Light.ttf
-        </font>
-        <font weight="200" style="normal" postScriptName="NotoSansCJKjp-ExtraLight">
-            AdvocateAncientSansJP-ExtraLight.ttf
-        </font>
-        <font weight="400" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Regular">AdvocateAncientSerifJP-Regular.ttf
-        </font>
-        <font weight="500" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Medium">AdvocateAncientSerifJP-Medium.ttf
-        </font>
-        <font weight="700" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Bold">AdvocateAncientSerifJP-Bold.ttf
-        </font>
-        <font weight="900" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Heavy">AdvocateAncientSerifJP-Heavy.ttf
-        </font>
-        <font weight="300" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-Light">AdvocateAncientSerifJP-Light.ttf
-        </font>
-        <font weight="200" style="normal" fallbackFor="serif"
-              postScriptName="NotoSerifCJKjp-ExtraLight">AdvocateAncientSerifJP-ExtraLight.ttf
-        </font>
-    </family>
-    
     <family lang="und-Arab" variant="elegant">
         <font weight="400" style="normal" postScriptName="NotoNaskhArabic">
             NotoNaskhArabic-Regular.ttf
@@ -1351,7 +1299,105 @@
     <family>
         <font weight="400" style="normal">NotoSansSymbols-Regular-Subsetted.ttf</font>
     </family>
+        
+    <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
+        <font weight="400" style="normal">MPLUS1-Regular.ttf</font>
+        <font weight="500" style="normal">MPLUS1-Medium.ttf</font>
+        <font weight="600" style="normal">MPLUS1-SemiBold.ttf</font>
+        <font weight="700" style="normal">MPLUS1-Bold.ttf</font>
+        <font weight="800" style="normal">MPLUS1-ExtraBold.ttf</font>
+        <font weight="900" style="normal">MPLUS1-Black.ttf</font>
+        <font weight="300" style="normal">MPLUS1-Light.ttf</font>
+        <font weight="200" style="normal">MPLUS1-ExtraLight.ttf</font>
+        <font weight="100" style="normal">MPLUS1-Thin.ttf</font>
+    </family>
     
+    <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
+        <font weight="400" style="normal" postScriptName="NotoSansCJKjp-Regular">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="350" />
+        </font>
+        <font weight="500" style="normal" postScriptName="NotoSansCJKjp-Medium">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="700" style="normal" postScriptName="NotoSansCJKjp-Bold">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="700" />
+        </font>
+        <font weight="900" style="normal" postScriptName="NotoSansCJKjp-Heavy">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="900" />
+        </font>
+        <font weight="300" style="normal" postScriptName="NotoSansCJKjp-Light">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="300" />
+        </font>
+        <font weight="200" style="normal" postScriptName="NotoSansCJKjp-ExtraLight">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="200" />
+        </font>
+        <font weight="100" style="normal" postScriptName="NotoSansCJKjp-Thin">
+            AdvocateAncientSansJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="100" />
+        </font>
+        <font weight="400" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Regular">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="350" />
+        </font>
+        <font weight="500" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Medium">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="700" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Bold">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="700" />
+        </font>
+        <font weight="900" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Heavy">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="900" />
+        </font>
+        <font weight="300" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Light">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="300" />
+        </font>
+        <font weight="200" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-ExtraLight">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="200" />
+        </font>
+        <font weight="100" style="normal" fallbackFor="serif"
+              postScriptName="NotoSerifCJKjp-Thin">AdvocateAncientSerifJP-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="100" />
+        </font>
+    </family>
     <family lang="und-Zsye">
         <font weight="400" style="normal">NotoColorEmoji.ttf</font>
     </family>
