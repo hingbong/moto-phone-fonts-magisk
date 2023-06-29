@@ -235,13 +235,14 @@
     <alias name="ITC Stone Serif" to="serif" />
 
     <family name="monospace">
-        <font weight="400" style="normal">MPLUSCodeLatin50-Regular.otf</font>
-        <font weight="700" style="normal">MPLUSCodeLatin50-Bold.otf</font>
-        <font weight="500" style="normal">MPLUSCodeLatin50-Medium.otf</font>
-        <font weight="600" style="normal">MPLUSCodeLatin50-SemiBold.otf</font>
-        <font weight="300" style="normal">MPLUSCodeLatin50-Light.otf</font>
-        <font weight="200" style="normal">MPLUSCodeLatin50-ExtraLight.otf</font>
-        <font weight="100" style="normal">MPLUSCodeLatin50-Thin.otf</font>
+        <font weight="400" style="normal">intelone-mono-font-family-regular.otf</font>
+        <font weight="400" style="italic">intelone-mono-font-family-italic.otf</font>
+        <font weight="700" style="normal">intelone-mono-font-family-bold.otf</font>
+        <font weight="700" style="italic">intelone-mono-font-family-bolditalic.otf</font>
+        <font weight="500" style="normal">intelone-mono-font-family-medium.otf</font>
+        <font weight="500" style="italic">intelone-mono-font-family-mediumitalic.otf</font>
+        <font weight="300" style="normal">intelone-mono-font-family-light.otf</font>
+        <font weight="300" style="italic">intelone-mono-font-family-lightitalic.otf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
