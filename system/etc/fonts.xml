@@ -23,13 +23,27 @@
 -->
 <familyset version="23">
     <!-- first font is default -->
+    <family name="sans-serif">
+        <font weight="100" style="normal">EmptyFont-Thin.ttf</font>
+        <font weight="100" style="italic">EmptyFont-ThinItalic.ttf</font>
+        <font weight="300" style="normal">EmptyFont-Light.ttf</font>
+        <font weight="300" style="italic">EmptyFont-LightItalic.ttf</font>
+        <font weight="400" style="normal">EmptyFont-Regular.ttf</font>
+        <font weight="400" style="italic">EmptyFont-Italic.ttf</font>
+        <font weight="500" style="normal">EmptyFont-Medium.ttf</font>
+        <font weight="500" style="italic">EmptyFont-MediumItalic.ttf</font>
+        <font weight="900" style="normal">EmptyFont-Black.ttf</font>
+        <font weight="900" style="italic">EmptyFont-BlackItalic.ttf</font>
+        <font weight="700" style="normal">EmptyFont-Bold.ttf</font>
+        <font weight="700" style="italic">EmptyFont-BoldItalic.ttf</font>
+    </family>
     <family>
         <font weight="400" style="normal">AdvocateAncientSansJP-VF.otf
-          <axis tag="wght" stylevalue="450" />
+		  <axis tag="wght" stylevalue="400" />
         </font>
 	    <font weight="400" style="italic">AdvocateAncientSansJP-VF.otf
 		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="450" />
+		  <axis tag="wght" stylevalue="400" />
 	    </font>
         <font weight="500" style="normal">AdvocateAncientSansJP-VF.otf
           <axis tag="wght" stylevalue="500" />
@@ -73,57 +87,8 @@
 		  <axis tag="ital" stylevalue="1" />
 		  <axis tag="wght" stylevalue="100" />
 	    </font>
-        <font weight="400" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="450" />
-        </font>
-	    <font weight="400" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="450" />
-	    </font>
-        <font weight="500" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="500" />
-        </font>
-	    <font weight="500" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="500" />
-	    </font>
-        <font weight="700" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="700" />
-        </font>
-	    <font weight="700" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="700" />
-	    </font>
-        <font weight="900" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="900" />
-        </font>
-	    <font weight="900" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="900" />
-	    </font>
-        <font weight="300" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="300" />
-        </font>
-	    <font weight="300" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="300" />
-	    </font>
-        <font weight="200" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="200" />
-        </font>
-	    <font weight="200" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="200" />
-	    </font>
-        <font weight="100" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="100" />
-        </font>
-	    <font weight="100" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="100" />
-	    </font>
     </family>
-    <family name="sans-serif">
+    <family>
         <font weight="100" style="normal">Roboto-Regular.ttf
           <axis tag="ital" stylevalue="0" />
           <axis tag="wdth" stylevalue="100" />
@@ -212,7 +177,6 @@
         </font>
    </family>
 
-
     <!-- Note that aliases must come after the fonts they reference. -->
     <alias name="sans-serif-thin" to="sans-serif" weight="100" />
     <alias name="sans-serif-light" to="sans-serif" weight="300" />
@@ -224,92 +188,92 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-      <font weight="100" style="normal">Roboto-Regular.ttf
+      <font weight="100" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="100" />
       </font>
-      <font weight="200" style="normal">Roboto-Regular.ttf
+      <font weight="200" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="200" />
       </font>
-      <font weight="300" style="normal">Roboto-Regular.ttf
+      <font weight="300" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="300" />
       </font>
-      <font weight="400" style="normal">Roboto-Regular.ttf
+      <font weight="400" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="400" />
       </font>
-      <font weight="500" style="normal">Roboto-Regular.ttf
+      <font weight="500" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="500" />
       </font>
-      <font weight="600" style="normal">Roboto-Regular.ttf
+      <font weight="600" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="600" />
       </font>
-      <font weight="700" style="normal">Roboto-Regular.ttf
+      <font weight="700" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="700" />
       </font>
-      <font weight="800" style="normal">Roboto-Regular.ttf
+      <font weight="800" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="800" />
       </font>
-      <font weight="900" style="normal">Roboto-Regular.ttf
+      <font weight="900" style="normal">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="0" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="900" />
       </font>
-      <font weight="100" style="italic">Roboto-Regular.ttf
+      <font weight="100" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="100" />
       </font>
-      <font weight="200" style="italic">Roboto-Regular.ttf
+      <font weight="200" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="200" />
       </font>
-      <font weight="300" style="italic">Roboto-Regular.ttf
+      <font weight="300" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="300" />
       </font>
-      <font weight="400" style="italic">Roboto-Regular.ttf
+      <font weight="400" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="400" />
       </font>
-      <font weight="500" style="italic">Roboto-Regular.ttf
+      <font weight="500" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="500" />
       </font>
-      <font weight="600" style="italic">Roboto-Regular.ttf
+      <font weight="600" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="600" />
       </font>
-      <font weight="700" style="italic">Roboto-Regular.ttf
+      <font weight="700" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="700" />
       </font>
-      <font weight="800" style="italic">Roboto-Regular.ttf
+      <font weight="800" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="800" />
       </font>
-      <font weight="900" style="italic">Roboto-Regular.ttf
+      <font weight="900" style="italic">AdvocateAncientSansJP-VF.otf
         <axis tag="ital" stylevalue="1" />
         <axis tag="wdth" stylevalue="75" />
         <axis tag="wght" stylevalue="900" />
@@ -319,10 +283,55 @@
     <alias name="sans-serif-condensed-medium" to="sans-serif-condensed" weight="500" />
 
     <family name="serif">
-        <font weight="400" style="normal" postScriptName="NotoSerif">NotoSerif-Regular.ttf</font>
-        <font weight="700" style="normal">NotoSerif-Bold.ttf</font>
-        <font weight="400" style="italic">NotoSerif-Italic.ttf</font>
-        <font weight="700" style="italic">NotoSerif-BoldItalic.ttf</font>
+        <font weight="400" style="normal" postScriptName="NotoSerif">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="400" />
+        </font>
+	    <font weight="400" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="400" />
+	    </font>
+        <font weight="500" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="500" />
+        </font>
+	    <font weight="500" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="500" />
+	    </font>
+        <font weight="700" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="700" />
+        </font>
+	    <font weight="700" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="700" />
+	    </font>
+        <font weight="900" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="900" />
+        </font>
+	    <font weight="900" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="900" />
+	    </font>
+        <font weight="300" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="300" />
+        </font>
+	    <font weight="300" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="300" />
+	    </font>
+        <font weight="200" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="200" />
+        </font>
+	    <font weight="200" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="200" />
+	    </font>
+        <font weight="100" style="normal">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="100" />
+        </font>
+	    <font weight="100" style="italic">AdvocateAncientSerifJP-VF.otf
+		  <axis tag="ital" stylevalue="1" />
+		  <axis tag="wght" stylevalue="100" />
+	    </font>
     </family>
     <alias name="serif-bold" to="serif" weight="700" />
     <alias name="times" to="serif" />
@@ -1403,12 +1412,12 @@
     </family>
     
     <family lang="zh-Hans,zh-Hant,zh-Bopo,ja,ko">
-        <font weight="400" style="normal">AdvocateAncientSansJP-VF.otf
-          <axis tag="wght" stylevalue="450" />
+        <font weight="400" style="normal" postScriptName="NotoSansCJKjp-Regular">AdvocateAncientSansJP-VF.otf
+          <axis tag="wght" stylevalue="400" />
         </font>
-	    <font weight="400" style="italic">AdvocateAncientSansJP-VF.otf
+	    <font weight="400" style="italic"  postScriptName="NotoSansCJKjp-Italic">AdvocateAncientSansJP-VF.otf
 		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="450" />
+		  <axis tag="wght" stylevalue="400" />
 	    </font>
         <font weight="500" style="normal">AdvocateAncientSansJP-VF.otf
           <axis tag="wght" stylevalue="500" />
@@ -1452,12 +1461,12 @@
 		  <axis tag="ital" stylevalue="1" />
 		  <axis tag="wght" stylevalue="100" />
 	    </font>
-        <font weight="400" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
-          <axis tag="wght" stylevalue="450" />
+        <font weight="400" style="normal" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular">AdvocateAncientSerifJP-VF.otf
+          <axis tag="wght" stylevalue="400" />
         </font>
-	    <font weight="400" style="italic" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
+	    <font weight="400" style="italic" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Italic">AdvocateAncientSerifJP-VF.otf
 		  <axis tag="ital" stylevalue="1" />
-		  <axis tag="wght" stylevalue="450" />
+		  <axis tag="wght" stylevalue="400" />
 	    </font>
         <font weight="500" style="normal" fallbackFor="serif">AdvocateAncientSerifJP-VF.otf
           <axis tag="wght" stylevalue="500" />
