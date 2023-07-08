@@ -7,4 +7,6 @@ REMOVE="
 /system/fonts/NotoSerif-Bold.ttf
 /system/fonts/NotoSerif-Italic.ttf
 /system/fonts/NotoSerif-BoldItalic.ttf
+/system/product/fonts
+/system/product/etc/fonts_customization.xml
 "
