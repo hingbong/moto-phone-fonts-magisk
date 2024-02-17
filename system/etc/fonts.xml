@@ -239,12 +239,96 @@
     <alias name="ITC Stone Serif" to="serif" />
 
     <family name="monospace">
-        <font weight="300" style="normal">MapleMono-NF-Light.ttf</font>
-        <font weight="300" style="italic">MapleMono-NF-LightItalic.ttf</font>
-        <font weight="400" style="normal">MapleMono-NF-Regular.ttf</font>
-        <font weight="400" style="italic">MapleMono-NF-Italic.ttf</font>
-        <font weight="700" style="normal">MapleMono-NF-Bold.ttf</font>
-        <font weight="700" style="italic">MapleMono-NF-BoldItalic.ttf</font>
+        <font weight="100" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="100" />
+        </font>
+        <font weight="200" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="200" />
+        </font>
+        <font weight="300" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="300" />
+        </font>
+        <font weight="400" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="400" />
+        </font>
+        <font weight="500" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="600" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="600" />
+        </font>
+        <font weight="700" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="700" />
+        </font>
+        <font weight="800" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="800" />
+        </font>
+        <font weight="900" style="normal">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="0" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="900" />
+        </font>
+        <font weight="100" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="100" />
+        </font>
+        <font weight="200" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="200" />
+        </font>
+        <font weight="300" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="300" />
+        </font>
+        <font weight="400" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="400" />
+        </font>
+        <font weight="500" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="600" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="600" />
+        </font>
+        <font weight="700" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="700" />
+        </font>
+        <font weight="800" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="800" />
+        </font>
+        <font weight="900" style="italic">MapleMono-VF.otf
+          <axis tag="ital" stylevalue="1" />
+          <axis tag="wdth" stylevalue="100" />
+          <axis tag="wght" stylevalue="900" />
+        </font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
